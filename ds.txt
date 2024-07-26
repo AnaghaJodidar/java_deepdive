@@ -1,0 +1,30 @@
+Data structure:
+primitive n non primitive
+
+		|
+-----------------------
+|				|
+linear 			non linear
+:				:
+array				graph: has vertices no nodes random linking.
+queue 			tree: defined with nodes and no disconnection in the dig
+stck 
+linked list
+
+
+
+complexities of cases:
+the best o(1)
+best o(log n)
+bad : o(nlog n)
+worst:
+o(n^2)
+o(2^n)
+o(n) 
+
+
+treee : ex hirercuial org
+
+nodes, levels, graph but interconnected and has vertices.
+
+AVL TREE: can create balance tree , by left and right rotation
